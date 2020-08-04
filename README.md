@@ -20,6 +20,7 @@ The present submission contains:
   - A function findSpeed that aims to identify the sped fo the vehicles crossing the bridge.
   - A function findVehicleID.m that identify the number of vehicles crossing the bridge and their arrival time.
   - A function movingLoad.m that is used internally to compute the load of a moving mass on a beam.
+  - A function getSamplingPara.m that is used to get the sampling frequency and time vector for the example file.
   - A function RMSE.m that simply computes the root-mean-square error.
   - A Matlab livescript Example1.mlx 
   
