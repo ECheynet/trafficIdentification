@@ -1,4 +1,4 @@
-# Data‐driven identification of vehicle characteristics using bridge vibrations
+# Automated vehicle identification using bridge vibrations
 Matlab algorithm to automatically identify key vehicle characteristics from vibrations data collected on a suspension bridge
 
 ## Summary
