@@ -33,16 +33,16 @@ The present submission contains:
 ## Examples
 
 ###  Clustering and outlier analysis
-![Clustering and outlier analysis](Fig2.png)
+![Clustering and outlier analysis](Fig2.jpg)
 
 ### identification of the vehicle speed and arrival time
 
-![Simultaneous identification of the vehicle speed and arrival time](Fig3.png)
+![Simultaneous identification of the vehicle speed and arrival time](Fig3.jpg)
 
 ### Fitted and "measured" background bridge response
 
-![Fitted and "measured" background bridge response to the passage of vehicle](Fig4.png)
+![Fitted and "measured" background bridge response to the passage of vehicle](Fig4.jpg)
 
 ### Fitted and "measured" dynamic bridge response
 
-![Fitted and "measured" dynamic bridge response](Fig5.png)
+![Fitted and "measured" dynamic bridge response](Fig5.jpg)
