@@ -2,7 +2,7 @@
 Matlab algorithm to automatically identify key vehicle characteristics from vibrations data collected on a suspension bridge
 
 [![View Automated vehicle identification using bridge vibrations on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/78850-automated-vehicle-identification-using-bridge-vibrations)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3971738.svg)](https://doi.org/10.5281/zenodo.3971738)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3971758.svg)](https://doi.org/10.5281/zenodo.3971758)
 
 ## Summary
 
