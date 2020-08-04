@@ -25,3 +25,20 @@ The present submission contains:
 [2]  https://se.mathworks.com/matlabcentral/fileexchange/51815-calculation-of-the-modal-parameters-of-a-suspension-bridge
 
 [3]  E.  Cheynet. ECheynet/EigenBridge v3.3. Zenodo, 2020,  https://doi.org/10.5281/ZENODO.3817982.
+
+## Examples
+
+###  Clustering and outlier analysis
+![Clustering and outlier analysis](Fig2.png)
+
+### identification of the vehicle speed and arrival time
+
+![Simultaneous identification of the vehicle speed and arrival time](Fig3.png)
+
+### Fitted and "measured" background bridge response
+
+![Fitted and "measured" background bridge response to the passage of vehicle](Fig4.png)
+
+### Fitted and "measured" dynamic bridge response
+
+![Fitted and "measured" dynamic bridge response](Fig5.png)
