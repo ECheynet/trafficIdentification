@@ -20,8 +20,8 @@ The present submission contains:
   - A Matlab livescript Example1.mlx 
   
 ## References
-[1] Cheynet, E., Daniotti, N., Jakobsen,  J. B., & Snæbjörnsson, J. (2020). Improved long‐span bridge modeling using data‐driven identification of vehicle‐induced vibrations. Structural Control and Health Monitoring, volume 27, issue 9.
+[1] Cheynet, E., Daniotti, N., Jakobsen,  J. B., & Snæbjörnsson, J. (2020). Improved long‐span bridge modeling using data‐driven identification of vehicle‐induced vibrations. Structural Control and Health Monitoring, volume 27, issue 9.  https://doi.org/10.1002/stc.2574
 
 [2]  https://se.mathworks.com/matlabcentral/fileexchange/51815-calculation-of-the-modal-parameters-of-a-suspension-bridge
 
-[3]  E.  Cheynet. ECheynet/EigenBridge v3.3. Zenodo, 2020, doi:10.5281/ZENODO.3817982.
+[3]  E.  Cheynet. ECheynet/EigenBridge v3.3. Zenodo, 2020,  https://doi.org/10.5281/ZENODO.3817982.
