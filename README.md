@@ -3,7 +3,7 @@ Matlab algorithm to automatically identify key vehicle characteristics from vibr
 
 ## Summary
 
-The present code is implementing the procedure used in ref [1] to automatically identify key vehicle characteristics from vibrations data collected on a suspension bridge. Nevertheless, there are some minor differences for the numerical code used in ref [1] and in the present case. The bridge is modelled using a continuum model to reduce the computational cost associated with the identification of the vehicles [2]. Vehicles are modelled as moving-masses to reduce the computational cost. In the following, only the vertical motion of the main span is modelled. This algorithm is suited to bridges in remote areas with little traffic.
+The present code implements in Matlab the procedure used in ref [1] to automatically identify key vehicle characteristics from vibrations data collected on a suspension bridge. Nevertheless, there are some minor differences for the numerical code used in ref [1] and in the present case. The bridge is modelled using a continuum model to reduce the computational cost associated with the identification of the vehicles [2]. Vehicles are modelled as moving-masses to reduce the computational cost. In the following, only the vertical motion of the main span is modelled. This algorithm is suited to bridges in remote areas with little traffic.
 
 
  
